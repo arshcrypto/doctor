@@ -1,0 +1,74 @@
+body{
+  margin: 0;
+  color: 44
+}
+.bottom-cloud{
+position: absolute;
+margin-left: 0;
+display:inline-block;
+top: 200px;
+}
+.upper-cloud{
+  position: absolute;
+display: inline-block;
+    margin-top: 222px;
+    margin-right: 0;
+        margin-left: 0;
+        left: 200px;
+}
+
+.top-container{
+position: relative;
+padding-top: 100px;
+  background-color:  #e4f9f5;
+  text-align: center;
+}
+h1{
+      font-family:'Alex Brush', cursive;
+font-size:5rem;
+display: inline-block;
+color: #66bfbf;
+}
+h2{
+  font-size: 2rem;
+  color:#66bfbf;
+}
+h3
+{
+  color: #11999e;
+  }
+hr{
+border: dotted #eaf6f6 6px ;
+border-bottom: none;
+  width:4%;
+  margin: 100px auto ;
+}
+
+.middle-container{
+  text-align: center;
+  margin: 100px;
+}
+.bottom-container{
+  text-align: center;
+  background-color: #11999e;
+  padding: 20px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.computer{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.chillies{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+a{
+  color: #eaf6f6;
+}
